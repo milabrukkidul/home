@@ -8,6 +8,10 @@ const siteData = {
     {
       "name": "Our Home",
       "link": "https://maps.app.goo.gl/FGmx4a7TYppVXzwH9"
+      https://wa.me/6285746677738?text=Assalamualaikum+Wr+Wb.
+      "dropdown": [
+        { "name": "emis", "link": "https://emis.kemenag.go.id/", "iconClass": "fa-solid fa-school" },
+    ]
     },
     {
       "name": "Operator",
@@ -42,8 +46,8 @@ const siteData = {
       ]
     },
     {
-      "name": "WA me",
-      "link": "https://wa.me/6285746677738?text=Assalamualaikum+Wr+Wb."
+      "name": "Sarpras",
+      "link": "https://milabrukkidul-official.github.io/sarpras/"
     }
   ],
   "icons": [
