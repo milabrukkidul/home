@@ -7,7 +7,7 @@ const siteData = {
   "nav": [
     {
       "name": "About Me",
-      "link": "#"
+      "link": "#",
        "dropdown": [
         { "name": "Maps", "link": "https://maps.app.goo.gl/FGmx4a7TYppVXzwH9", "iconClass": "fa-solid fa-map-location" },
         { "name": "WA Me", "link": "https://wa.me/6285746677738?text=Assalamualaikum+Wr+Wb.", "iconClass": "fa-solid fa-school" }
