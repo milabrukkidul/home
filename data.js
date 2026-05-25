@@ -48,8 +48,7 @@ const siteData = {
     {
       "name": "Sarpras",
       "link": "https://milabrukkidul-official.github.io/sarpras/"
-    }
-  ],
+    },
   "icons": [
     {
       "name": "Presensi",
