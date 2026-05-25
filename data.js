@@ -8,10 +8,10 @@ const siteData = {
     {
       "name": "About Me",
       "link": "#",
-       "dropdown": [
+      "dropdown": [
         { "name": "Maps", "link": "https://maps.app.goo.gl/FGmx4a7TYppVXzwH9", "iconClass": "fa-solid fa-map-location" },
         { "name": "WA Me", "link": "https://wa.me/6285746677738?text=Assalamualaikum+Wr+Wb.", "iconClass": "fa-solid fa-school" }
-    ]
+      ]
     },
     {
       "name": "Operator",
@@ -33,8 +33,8 @@ const siteData = {
       "dropdown": [
         { "name": "kaldik 25/26", "link": "https://docs.google.com/spreadsheets/d/1IY58YsfpY9qRGM0Ee4UZvOJE7WPKrFUBuDuuOlvy6JY/edit?usp=sharing", "iconClass": "fa-solid fa-calendar" },
         { "name": "kaldik 24/25", "link": "https://docs.google.com/spreadsheets/d/1nsl4zmEyQhkhumqP5V53YZKP4bGpvfzBvzqloGDfrl8/edit?usp=sharing", "iconClass": "fa-solid fa-calendar" },
-        { "name": "Pengumuman Lulus 26", "link": "https://milabrukkidul-official.github.io/kelulusan2526/", "iconClass": "fa-solid fa-graduation-cap" },
-         ]
+        { "name": "Pengumuman Lulus 26", "link": "https://milabrukkidul-official.github.io/kelulusan2526/", "iconClass": "fa-solid fa-graduation-cap" }
+      ]
     },
     {
       "name": "Kesiswaan",
@@ -48,7 +48,8 @@ const siteData = {
     {
       "name": "Sarpras",
       "link": "https://milabrukkidul-official.github.io/sarpras/"
-    },
+    }
+  ],
   "icons": [
     {
       "name": "Presensi",
