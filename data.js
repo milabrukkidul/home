@@ -6,11 +6,11 @@ const siteData = {
   "heroSubtitle": "Aku Qur'ani, Berprestasi Unggul dalam Ilmu dan Amal<br>MI-Q Excellent Quranic School<br>Adik Nuris : &quot;semangat, sukses, yes!&quot;",
   "nav": [
     {
-      "name": "Our Home",
-      "link": "https://maps.app.goo.gl/FGmx4a7TYppVXzwH9"
-      https://wa.me/6285746677738?text=Assalamualaikum+Wr+Wb.
-      "dropdown": [
-        { "name": "emis", "link": "https://emis.kemenag.go.id/", "iconClass": "fa-solid fa-school" },
+      "name": "About Me",
+      "link": "#"
+       "dropdown": [
+        { "name": "Maps", "link": "https://maps.app.goo.gl/FGmx4a7TYppVXzwH9", "iconClass": "fa-solid fa-map-location" },
+        { "name": "WA Me", "link": "https://wa.me/6285746677738?text=Assalamualaikum+Wr+Wb.", "iconClass": "fa-solid fa-school" }
     ]
     },
     {
