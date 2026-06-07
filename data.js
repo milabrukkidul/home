@@ -81,7 +81,7 @@ const siteData = {
     },
     {
       "name": "RDM",
-      "url": "https://wa.me/6285117008700?text=link+raport+RDM",
+      "url": "http://fomegrfcbk.localto.net:3045/",
       "domain": "Rapor Digital Madrasah",
       "color": "#92f21dff",
       "iconClass": "fa-solid fa-laptop-file"
