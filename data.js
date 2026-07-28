@@ -41,7 +41,7 @@ const siteData = {
       "link": "#",
       "dropdown": [
         { "name": "Buku Induk", "link": "https://milabrukkidul-official.github.io/induk", "iconClass": "fa-solid fa-children" },
-        { "name": "Projects", "link": "#projects", "iconClass": "fa-solid fa-folder-open" },
+        { "name": "Prestasi Siswa", "link": "https://docs.google.com/spreadsheets/d/1y8qjSNVW9IRBIVYx7yipTpoDMajb6IWQLpvxc0po_Yc/edit?usp=sharing", "iconClass": "fa-solid fa-folder-open" },
         { "name": "Case Studies", "link": "#cases", "iconClass": "fa-solid fa-file-lines" }
       ]
     },
