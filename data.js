@@ -33,27 +33,27 @@ const siteData = {
       "dropdown": [
         { "name": "kaldik 25/26", "link": "https://docs.google.com/spreadsheets/d/1IY58YsfpY9qRGM0Ee4UZvOJE7WPKrFUBuDuuOlvy6JY/edit?usp=sharing", "iconClass": "fa-solid fa-calendar" },
         { "name": "kaldik 24/25", "link": "https://docs.google.com/spreadsheets/d/1nsl4zmEyQhkhumqP5V53YZKP4bGpvfzBvzqloGDfrl8/edit?usp=sharing", "iconClass": "fa-solid fa-calendar" },
-        { "name": "Pengumuman Lulus 26", "link": "https://milabrukkidul-official.github.io/kelulusan2526/", "iconClass": "fa-solid fa-graduation-cap" }
+        { "name": "Pengumuman Lulus 26", "link": "https://milabrukkidul.github.io/kelulusan2526/", "iconClass": "fa-solid fa-graduation-cap" }
       ]
     },
     {
       "name": "Kesiswaan",
       "link": "#",
       "dropdown": [
-        { "name": "Buku Induk", "link": "https://milabrukkidul-official.github.io/induk", "iconClass": "fa-solid fa-children" },
+        { "name": "Buku Induk", "link": "https://milabrukkidul.github.io/induk", "iconClass": "fa-solid fa-children" },
         { "name": "Prestasi Siswa", "link": "https://docs.google.com/spreadsheets/d/1y8qjSNVW9IRBIVYx7yipTpoDMajb6IWQLpvxc0po_Yc/edit?usp=sharing", "iconClass": "fa-solid fa-folder-open" },
         { "name": "Case Studies", "link": "#cases", "iconClass": "fa-solid fa-file-lines" }
       ]
     },
     {
       "name": "Sarpras",
-      "link": "https://milabrukkidul-official.github.io/sarpras/"
+      "link": "https://milabrukkidul.github.io/sarpras/"
     }
   ],
   "icons": [
     {
       "name": "Presensi",
-      "url": "https://milabrukkidul-official.github.io/presensi/",
+      "url": "https://milabrukkidul.github.io/presensi/",
       "domain": "Kehadiran MI Labrukkidul",
       "color": "#e94560",
       "iconClass": "fa-solid fa-user-clock"
@@ -74,7 +74,7 @@ const siteData = {
     },
       {
       "name": "Raport UTS",
-      "url": "https://milabrukkidul-official.github.io/rdts/",
+      "url": "https://milabrukkidul.github.io/rdts/",
       "domain": "Managemen Rapor UTS",
       "color": "#00c527ff",
       "iconClass": "fa-solid fa-chart-column"
