@@ -31,8 +31,8 @@ const siteData = {
       "name": "Kurikulum",
       "link": "#",
       "dropdown": [
-        { "name": "kaldik 25/26", "link": "https://docs.google.com/spreadsheets/d/1IY58YsfpY9qRGM0Ee4UZvOJE7WPKrFUBuDuuOlvy6JY/edit?usp=sharing", "iconClass": "fa-solid fa-calendar" },
-        { "name": "kaldik 24/25", "link": "https://docs.google.com/spreadsheets/d/1nsl4zmEyQhkhumqP5V53YZKP4bGpvfzBvzqloGDfrl8/edit?usp=sharing", "iconClass": "fa-solid fa-calendar" },
+        { "name": "kaldik 25/26", "link": "https://docs.google.com/spreadsheets/d/13ct3br2yVJh45XKwThybevmPzWBABhHePbyaMfyK9zo/edit?usp=sharing", "iconClass": "fa-solid fa-calendar" },
+        { "name": "kaldik 24/25", "link": "https://docs.google.com/spreadsheets/d/1zysPFbZ0yyJZXDQfSbF3HNyyZIv4RFrJSAi6T0KT9_g/edit?usp=sharing", "iconClass": "fa-solid fa-calendar" },
         { "name": "Pengumuman Lulus 26", "link": "https://milabrukkidul.github.io/kelulusan2526/", "iconClass": "fa-solid fa-graduation-cap" }
       ]
     },
